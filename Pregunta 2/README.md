@@ -17,13 +17,6 @@
 
 ## 📥 **Getting Started**
 
-- Replace globally these terms:
-
-    - `currency-exchange` api base path, i.e. sample (for get /api/sample/v*/*)
-    - `currency-exchange-api` app name, i.e. sample-api
-    - `Currency Exchange API` app title, i.e. Sample API
-    - `fintech-wallet1` project name, i.e. my-project
-
 - Install [NodeJS](https://nodejs.org/es/).
 - Install [PNPM](https://pnpm.io/installation)
 - Execute `pnpm install` command.

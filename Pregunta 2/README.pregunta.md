@@ -14,3 +14,18 @@ Se debe crear un servicio REST (Puede ser desarrollado en NestJS o en Express) q
     4.	Ejemplo petición: `{“monto”: 100, “monedaDestino”: “EUR”}`
 3.	Permita consultar el saldo en distintas divisas.
     1.	Devuelve el saldo del usuario en todas las monedas almacenadas.
+
+# Respuesta:
+
+Ejecutar los siguientes comandos para arrancar el proyecto:
+```bash
+pnpm install
+pnpm start:dev
+```
+
+Abrir el navegador y acceder a la siguiente URL:
+```bash
+http://localhost:4004/api
+```
+Proyecto se encuentra desarrollado en NestJS a partir de un template, el cual es un fork de propiedad de `Christopher Alvear`. Repositorio: `https://github.com/estebangarviso/nestjs-template`.
+Idiomas utilizados: `Inglés` y `Español` y el proyecto cuenta con un servicio REST cumple con todos los requisitos solicitados en la pregunta.
